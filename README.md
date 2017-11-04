@@ -1278,3 +1278,5 @@ Signed,
 - Aline Dias([@aolidias](https://github.com/aolidias)), Software Developer, Brazil
 
 - Ifunanya Ikemma([@Iphytech](https://github.com/Iphytech)), Software Developer, Enugu, Nigeria
+
+- Chukwuedo Favour([@favourch](https://github.com/favourch)), Web Developer, Lagos, Nigeria
